@@ -4,152 +4,89 @@ A detailed list of Spanish tenses with their descriptions, conjugations, and ver
 
 **Description:** The present tense is used to describe actions that are currently happening or that happen regularly.
 
-| Person                         | Hablar (to speak) | Ending |
-|-------------------------------|------------------|--------|
-| Yo (I)                        | hablo            | -o     |
-| Tú (You)                      | hablas           | -as    |
-| Él/Ella/Usted (He/She/You formal) | habla            | -a     |
-| Nosotros/Nosotras (We)        | hablamos         | -amos  |
-| Vosotros/Vosotras (You all)   | habláis          | -áis   |
-| Ellos/Ellas/Ustedes (They/You all formal) | hablan           | -an    |
+| Person                         | Hablar (to speak) | Comer (to eat) | Vivir (to live) | Ending (-ar) | Ending (-er) | Ending (-ir) |
+|-------------------------------|-------------------|----------------|-----------------|--------------|--------------|--------------|
+| Yo (I)                        | hablo             | como           | vivo            | -o           | -o           | -o           |
+| Tú (You)                      | hablas            | comes          | vives           | -as          | -es          | -es          |
+| Él/Ella/Usted (He/She/You formal) | habla             | come           | vive            | -a           | -e           | -e           |
+| Nosotros/Nosotras (We)        | hablamos          | comemos        | vivimos         | -amos        | -emos        | -imos        |
+| Vosotros/Vosotras (You all)   | habláis           | coméis         | vivís           | -áis         | -éis         | -ís          |
+| Ellos/Ellas/Ustedes (They/You all formal) | hablan            | comen          | viven           | -an           | -en           | -en           |
 
 ### Preterite Tense (Pretérito)
 
 **Description:** The preterite tense is used to describe actions that were completed in the past.
 
-| Person                         | Comer (to eat)   | Ending |
-|-------------------------------|------------------|--------|
-| Yo (I)                        | comí             | -í     |
-| Tú (You)                      | comiste          | -iste  |
-| Él/Ella/Usted (He/She/You formal) | comió            | -ió    |
-| Nosotros/Nosotras (We)        | comimos          | -imos  |
-| Vosotros/Vosotras (You all)   | comisteis        | -isteis|
-| Ellos/Ellas/Ustedes (They/You all formal) | comieron         | -ieron |
+| Person                         | Hablar (to speak) | Comer (to eat) | Vivir (to live) | Ending (-ar) | Ending (-er) | Ending (-ir) |
+|-------------------------------|-------------------|----------------|-----------------|--------------|--------------|--------------|
+| Yo (I)                        | hablé             | comí           | viví            | -é           | -í           | -í           |
+| Tú (You)                      | hablaste          | comiste        | viviste         | -aste        | -iste        | -iste        |
+| Él/Ella/Usted (He/She/You formal) | habló             | comió           | vivió            | -ó           | -ió           | -ió           |
+| Nosotros/Nosotras (We)        | hablamos          | comimos        | vivimos         | -amos        | -imos        | -imos        |
+| Vosotros/Vosotras (You all)   | hablasteis        | comisteis      | vivisteis       | -asteis      | -isteis      | -isteis      |
+| Ellos/Ellas/Ustedes (They/You all formal) | hablaron          | comieron        | vivieron        | -aron        | -ieron        | -ieron        |
 
 ### Imperfect Tense (Imperfecto)
 
 **Description:** The imperfect tense is used to describe ongoing or habitual actions in the past.
 
-| Person                         | Vivir (to live)  | Ending |
-|-------------------------------|------------------|--------|
-| Yo (I)                        | vivía            | -ía    |
-| Tú (You)                      | vivías           | -ías   |
-| Él/Ella/Usted (He/She/You formal) | vivía            | -ía    |
-| Nosotros/Nosotras (We)        | vivíamos         | -íamos |
-| Vosotros/Vosotras (You all)   | vivíais          | -íais  |
-| Ellos/Ellas/Ustedes (They/You all formal) | vivían           | -ían   |
+| Person                         | Hablar (to speak) | Comer (to eat) | Vivir (to live) | Ending (-ar) | Ending (-er) | Ending (-ir) |
+|-------------------------------|-------------------|----------------|-----------------|--------------|--------------|--------------|
+| Yo (I)                        | hablaba           | comía          | vivía           | -aba         | -ía          | -ía          |
+| Tú (You)                      | hablabas          | comías         | vivías          | -abas        | -ías         | -ías         |
+| Él/Ella/Usted (He/She/You formal) | hablaba           | comía          | vivía           | -aba         | -ía          | -ía          |
+| Nosotros/Nosotras (We)        | hablábamos        | comíamos       | vivíamos        | -ábamos      | -íamos       | -íamos       |
+| Vosotros/Vosotras (You all)   | hablabais         | comíais        | vivíais         | -abais       | -íais        | -íais        |
+| Ellos/Ellas/Ustedes (They/You all formal) | hablaban          | comían         | vivían          | -aban        | -ían         | -ían         |
 
 ### Future Tense (Futuro)
 
 **Description:** The future tense is used to describe actions that will happen in the future.
 
-| Person                         | Ir (to go)       | Ending |
-|-------------------------------|------------------|--------|
-| Yo (I)                        | iré              | -é     |
-| Tú (You)                      | irás             | -ás    |
-| Él/Ella/Usted (He/She/You formal) | irá              | -á     |
-| Nosotros/Nosotras (We)        | iremos           | -emos  |
-| Vosotros/Vosotras (You all)   | iréis            | -éis   |
-| Ellos/Ellas/Ustedes (They/You all formal) | irán             | -án    |
+| Person                         | Hablar (to speak) | Comer (to eat) | Vivir (to live) | Ending (-ar) | Ending (-er) | Ending (-ir) |
+|-------------------------------|-------------------|----------------|-----------------|--------------|--------------|--------------|
+| Yo (I)                        | hablaré           | comeré         | viviré          | -é           | -é           | -é           |
+| Tú (You)                      | hablarás          | comerás        | vivirás         | -ás          | -ás          | -ás          |
+| Él/Ella/Usted (He/She/You formal) | hablará           | comerá         | vivirá          | -á           | -á           | -á           |
+| Nosotros/Nosotras (We)        | hablaremos        | comeremos      | viviremos       | -emos        | -emos        | -emos        |
+| Vosotros/Vosotras (You all)   | hablaréis         | comeréis       | viviréis        | -éis         | -éis         | -éis         |
+| Ellos/Ellas/Ustedes (They/You all formal) | hablarán          | comerán        | vivirán         | -án          | -án          | -án          |
 
 ### Conditional Tense (Condicional)
 
 **Description:** The conditional tense is used to describe actions that would happen under certain conditions.
 
-| Person                         | Comprar (to buy) | Ending |
-|-------------------------------|------------------|--------|
-| Yo (I)                        | compraría        | -ía    |
-| Tú (You)                      | comprarías       | -ías   |
-| Él/Ella/Usted (He/She/You formal) | compraría        | -ía    |
-| Nosotros/Nosotras (We)        | compraríamos     | -íamos |
-| Vosotros/Vosotras (You all)   | compraríais      | -íais  |
-| Ellos/Ellas/Ustedes (They/You all formal) | comprarían       | -ían   |
+| Person                         | Hablar (to speak) | Comer (to eat) | Vivir (to live) | Ending (-ar) | Ending (-er) | Ending (-ir) |
+|-------------------------------|-------------------|----------------|-----------------|--------------|--------------|--------------|
+| Yo (I)                        | hablaría          | comería        | viviría         | -ía          | -ía          | -ía          |
+| Tú (You)                      | hablarías         | comerías       | vivirías        | -ías         | -ías         | -ías         |
+| Él/Ella/Usted (He/She/You formal) | hablaría          | comería        | viviría         | -ía          | -ía          | -ía          |
+| Nosotros/Nosotras (We)        | hablaríamos       | comeríamos     | viviríamos      | -íamos       | -íamos       | -íamos       |
+| Vosotros/Vosotras (You all)   | hablaríais        | comeríais      | viviríais       | -íais        | -íais        | -íais        |
+| Ellos/Ellas/Ustedes (They/You all formal) | hablarían         | comerían       | vivirían        | -ían         | -ían         | -ían         |
 
 ### Present Subjunctive (Presente de Subjuntivo)
 
 **Description:** The present subjunctive is used to describe hypothetical or uncertain actions in the present or future.
 
-| Person                         | Tener (to have)  | Ending |
-|-------------------------------|------------------|--------|
-| Yo (I)                        | tenga            | -a     |
-| Tú (You)                      | tengas           | -as    |
-| Él/Ella/Usted (He/She/You formal) | tenga            | -a     |
-| Nosotros/Nosotras (We)        | tengamos         | -amos  |
-| Vosotros/Vosotras (You all)   | tengáis          | -áis   |
-| Ellos/Ellas/Ustedes (They/You all formal) | tengan           | -an    |
+| Person                         | Hablar (to speak) | Comer (to eat) | Vivir (to live) | Ending (-ar) | Ending (-er) | Ending (-ir) |
+|-------------------------------|-------------------|----------------|-----------------|--------------|--------------|--------------|
+| Yo (I)                        | hable             | coma           | viva            | -e           | -a           | -a           |
+| Tú (You)                      | hables            | comas          | vivas           | -es          | -as          | -as          |
+| Él/Ella/Usted (He/She/You formal) | hable             | coma           | viva            | -e           | -a           | -a           |
+| Nosotros/Nosotras (We)        | hablemos          | comamos        | vivamos         | -emos        | -amos        | -amos        |
+| Vosotros/Vosotras (You all)   | habléis           | comáis         | viváis          | -éis         | -áis         | -áis         |
+| Ellos/Ellas/Ustedes (They/You all formal) | hablen            | coman          | vivan           | -en           | -an           | -an           |
 
 ### Imperfect Subjunctive (Imperfecto de Subjuntivo)
 
 **Description:** The imperfect subjunctive is used to describe hypothetical or uncertain actions in the past.
 
-| Person                         | Ser (to be)      | Ending |
-|-------------------------------|------------------|--------|
-| Yo (I)                        | fuera            | -a     |
-| Tú (You)                      | fueras           | -as    |
-| Él/Ella/Usted (He/She/You formal) | fuera            | -a     |
-| Nosotros/Nosotras (We)        | fuéramos         | -amos  |
-| Vosotros/Vosotras (You all)   | fuerais          | -ais   |
-| Ellos/Ellas/Ustedes (They/You all formal) | fueran           | -an    |
-
-### Present Perfect (Pretérito Perfecto)
-
-**Description:** The present perfect is used to describe actions that have happened at some point in the past but are relevant to the present.
-
-| Person                         | Leer (to read)   | Ending         |
-|-------------------------------|------------------|----------------|
-| Yo (I)                        | he leído         | -ado/-ido      |
-| Tú (You)                      | has leído        | -ado/-ido      |
-| Él/Ella/Usted (He/She/You formal) | ha leído         | -ado/-ido      |
-| Nosotros/Nosotras (We)        | hemos leído      | -ado/-ido      |
-| Vosotros/Vosotras (You all)   | habéis leído     | -ado/-ido      |
-| Ellos/Ellas/Ustedes (They/You all formal) | han leído        | -ado/-ido      |
-
-### Past Perfect (Pluscuamperfecto)
-
-**Description:** The past perfect is used to describe actions that had happened before another action in the past.
-
-| Person                         | Escribir (to write) | Ending         |
-|-------------------------------|---------------------|----------------|
-| Yo (I)                        | había escrito       | -ado/-ido      |
-| Tú (You)                      | habías escrito      | -ado/-ido      |
-| Él/Ella/Usted (He/She/You formal) | había escrito       | -ado/-ido      |
-| Nosotros/Nosotras (We)        | habíamos escrito    | -ado/-ido      |
-| Vosotros/Vosotras (You all)   | habíais escrito     | -ado/-ido      |
-| Ellos/Ellas/Ustedes (They/You all formal) | habían escrito      | -ado/-ido      |
-
-### Future Perfect (Futuro Perfecto)
-
-**Description:** The future perfect is used to describe actions that will have happened by a certain point in the future.
-
-| Person                         | Terminar (to finish) | Ending         |
-|-------------------------------|----------------------|----------------|
-| Yo (I)                        | habré terminado      | -ado/-ido      |
-| Tú (You)                      | habrás terminado     | -ado/-ido      |
-| Él/Ella/Usted (He/She/You formal) | habrá terminado      | -ado/-ido      |
-| Nosotros/Nosotras (We)        | habremos terminado   | -ado/-ido      |
-| Vosotros/Vosotras (You all)   | habréis terminado    | -ado/-ido      |
-| Ellos/Ellas/Ustedes (They/You all formal) | habrán terminado    | -ado/-ido      |
-
-### Conditional Perfect (Condicional Perfecto)
-
-**Description:** The conditional perfect is used to describe actions that would have happened under certain conditions in the past.
-
-| Person                         | Llegar (to arrive)  | Ending         |
-|-------------------------------|---------------------|----------------|
-| Yo (I)                        | habría llegado      | -ado/-ido      |
-| Tú (You)                      | habrías llegado     | -ado/-ido      |
-| Él/Ella/Usted (He/She/You formal) | habría llegado      | -ado/-ido      |
-| Nosotros/Nosotras (We)        | habríamos llegado   | -ado/-ido      |
-| Vosotros/Vosotras (You all)   | habríais llegado    | -ado/-ido      |
-| Ellos/Ellas/Ustedes (They/You all formal) | habrían llegado    | -ado/-ido      |
-
-### Present Progressive (Presente Progresivo)
-
-**Description:** The present progressive is used to describe actions that are currently happening.
-
-| Person                         | Estudiar (to study) | Ending |
-|-------------------------------|---------------------|--------|
-| Yo (I)                        | estoy estudiando    | -ando  |
-| Tú (You)                      | estás estudiando    | -ando  |
-| Él/Ella/Usted (He/She/You formal) | está estudiando    | -ando  |
+| Person                         | Hablar (to speak) | Comer (to eat) | Vivir (to live) | Ending (-ar) | Ending (-er) | Ending (-ir) |
+|-------------------------------|-------------------|----------------|-----------------|--------------|--------------|--------------|
+| Yo (I)                        | hablara           | comiera        | viviera         | -ara         | -iera        | -iera        |
+| Tú (You)                      | hablaras          | comieras       | vivieras        | -aras        | -ieras       | -ieras       |
+| Él/Ella/Usted (He/She/You formal) | hablara           | comiera        | viviera         | -ara         | -iera        | -iera        |
+| Nosotros/Nosotras (We)        | habláramos        | comiéramos     | viviéramos      | -áramos      | -iéramos     | -iéramos     |
+| Vos
 
